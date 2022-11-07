@@ -1,0 +1,4 @@
+fastapi 
+asyncio
+pyfirmata 
+pyserial
